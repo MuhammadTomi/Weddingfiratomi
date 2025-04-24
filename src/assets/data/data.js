@@ -28,7 +28,7 @@ export const data = {
             day: 'Sabtu',
             hours: {
                 start: '10.00',
-                finish: 'Selesai'
+                finish: '12.00'
             }
         },
         reception: {
