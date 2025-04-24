@@ -34,10 +34,10 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'April',
-            date: '26',
+            date: '22',
             day: 'Selasa',
             hours: {
-                start: '11.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
