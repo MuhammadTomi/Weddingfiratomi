@@ -52,23 +52,23 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/galery5.jpg'
+            image: './src/assets/images/gl1.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/galery1.jpeg'
+            image: './src/assets/images/gl2.jpeg'
         },
         {
             id: 3,
-            image: './src/assets/images/galery2.jpeg'
+            image: './src/assets/images/gl3.jpeg'
         },
         {
             id: 4,
-            image: './src/assets/images/galery6.jpg'
+            image: './src/assets/images/gl4.jpg'
         },
         {
             id: 5,
-            image: './src/assets/images/galery4.jpg'
+            image: './src/assets/images/gl5.jpg'
         }
     ],
 
