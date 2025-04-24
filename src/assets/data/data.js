@@ -21,16 +21,6 @@ export const data = {
     },
 
     time: {
-        reception: {
-            year: '2025',
-            month: 'April',
-            date: '26',
-            day: 'Sabtu',
-            hours: {
-                start: '11.00',
-                finish: 'Selesai'
-            }
-        },
         marriage: {
             year: '2025',
             month: 'April',
@@ -38,6 +28,16 @@ export const data = {
             day: 'Sabtu',
             hours: {
                 start: '10.00',
+                finish: 'Selesai'
+            }
+        },
+        reception: {
+            year: '2025',
+            month: 'April',
+            date: '26',
+            day: 'Sabtu',
+            hours: {
+                start: '11.00',
                 finish: 'Selesai'
             }
         },
@@ -87,7 +87,7 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/tm.m4a',
+    audio: './src/assets/audio/song.mp3',
 
     api: 'https://script.google.com/macros/s/AKfycbzP1pO-F9EqrG0GUqVE36IMDjZXlllWLOZozWO3WKx0bSpL4Qagqz7Bp_T2jMZGb5xypw/exec',
 
