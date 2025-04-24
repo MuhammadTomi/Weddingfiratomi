@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/profilfira.png'
         },
 
-        couple: './src/assets/images/galery2.jpeg'
+        couple: './src/assets/images/gl1.jpg'
     },
 
     time: {
@@ -56,11 +56,11 @@ export const data = {
         },
         {
             id: 2,
-            image: './src/assets/images/gl2.jpeg'
+            image: './src/assets/images/gl2.jpg'
         },
         {
             id: 3,
-            image: './src/assets/images/gl3.jpeg'
+            image: './src/assets/images/gl3.jpg'
         },
         {
             id: 4,
