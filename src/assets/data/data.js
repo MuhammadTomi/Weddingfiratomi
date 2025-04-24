@@ -2,94 +2,94 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cowo.png'
+            name: 'MuhammadTomi S.T',
+            child: 'Putra ke dua',
+            father: 'Marzuki',
+            mother: 'Alm. Ainul Mardiah',
+            image: './src/assets/images/profiltomi.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cewe.png'
+            name: 'FiraKamelia S.Pd',
+            child: 'Putri pertama',
+            father: 'Agustiar (Karyawan PT.Arco)',
+            mother: 'Yusmidar',
+            image: './src/assets/images/profilfira.png'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/galery2.jpeg'
     },
 
     time: {
-        marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+        reception: {
+            year: '2025',
+            month: 'April',
+            date: '26',
+            day: 'Sabtu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
-        reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+        marriage: {
+            year: '2025',
+            month: 'April',
+            date: '22',
+            day: 'Selasa',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Dusun. Suka Jadi, RT 000/ RW 000, Desa.Alue Canang, Kec.Birem Bayeun, Kab.Aceh Timur'
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/kH8Tmh8EEq4Y5SM26',
+        map: 'https://maps.app.goo.gl/T8SAmKcGPRtZNgvQ6',
     },
 
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/galery5.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/galery1.jpeg'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/galery2.jpeg'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/galery6.jpg'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: './src/assets/images/galery4.jpg'
         }
     ],
 
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            name: 'MUHAMMAD TOMI',
+            icon: './src/assets/images/bsibaru.png',
+            rekening: '7222768343'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            name: 'FIRA KAMELIA',
+            icon: './src/assets/images/bsibaru.png',
+            rekening: '7168568187'
         },
     ],
 
-    audio: './src/assets/audio/wedding.mp3',
+    audio: './src/assets/audio/tm.m4a',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbzP1pO-F9EqrG0GUqVE36IMDjZXlllWLOZozWO3WKx0bSpL4Qagqz7Bp_T2jMZGb5xypw/exec',
 
     navbar: [
         {
