@@ -21,20 +21,20 @@ export const data = {
     },
 
     time: {
-        marriage: {
+        reception: {
             year: '2025',
             month: 'April',
             date: '26',
             day: 'Sabtu',
             hours: {
-                start: '08.00',
+                start: '11.00',
                 finish: 'Selesai'
             }
         },
-        reception: {
+        marriage: {
             year: '2025',
             month: 'April',
-            date: '22',
+            date: '26',
             day: 'Selasa',
             hours: {
                 start: '11.00',
