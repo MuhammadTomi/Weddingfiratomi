@@ -24,18 +24,18 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'April',
-            date: '26',
-            day: 'Sabtu',
+            date: '22',
+            day: 'Selasa',
             hours: {
                 start: '10.00',
-                finish: 'Selesai'
+                finish: '11.00'
             }
         },
         reception: {
             year: '2025',
             month: 'April',
-            date: '26',
-            day: 'Sabtu',
+            date: '27',
+            day: 'Selasa',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
