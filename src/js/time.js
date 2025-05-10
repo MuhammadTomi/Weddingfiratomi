@@ -4,7 +4,7 @@ export const time = () => {
     const timeContainer = document.querySelector('.time');
     const [marriageDiv, receptionDiv] = timeContainer.querySelectorAll('div div');
     const mapLink = timeContainer.querySelector('p');
-    const addressParagraph = timeContainer.querySelector('a + p');
+    const addressParagraph = timeContainer.querySelector('p');
 
     const createTimeListItem = (title, details) => (
         `<h3>${title}</h3>
