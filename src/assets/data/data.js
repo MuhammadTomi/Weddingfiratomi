@@ -41,12 +41,12 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Dusun. Suka Jadi, RT 000/ RW 000, Desa.Alue Canang, Kec.Birem Bayeun, Kab.Aceh Timur'
+        address: 'Dusun. Mesjid, RT 000/ RW 000, Desa.Alue Bu Tuha, Kec.Peureulak Barat, Kab.Aceh Timur'
     },
 
     link: {
         calendar: 'https://calendar.app.google/kH8Tmh8EEq4Y5SM26',
-        map: 'https://maps.app.goo.gl/T8SAmKcGPRtZNgvQ6',
+        map: 'https://maps.app.goo.gl/EXEtTQgPAa6xoUxBA',
     },
 
     galeri: [
