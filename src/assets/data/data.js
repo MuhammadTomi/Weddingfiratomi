@@ -29,8 +29,8 @@ export const data = {
             hours: {
                 start: '10.00',
                 finish: '11.00'
-            }
-        },
+            
+        ,
         reception: {
             year: '2025',
             month: 'April',
