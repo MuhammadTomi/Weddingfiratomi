@@ -12,4 +12,5 @@
 ![AOS](https://img.shields.io/badge/AOS-Animate%20On%20Scroll-38B2AC?style=flat)
 
 
-Terima kasih telah mengunjungi repositori ini. Semoga hari pernikahan Anda berjalan lancar dan penuh kebahagiaan! 😊
+Terima kasih telah mengunjungi repositori ini
+Muhamammad Tomi, ST (GIT HUB)
