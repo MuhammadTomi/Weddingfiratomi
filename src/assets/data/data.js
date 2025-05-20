@@ -28,7 +28,7 @@ export const data = {
             day: 'Selasa',
             hours: {
                 start: '11.00',
-                finish: 'Selesai'
+                finish: 'Selesai',
         reception: {
             year: '2025',
             month: 'Mei',
