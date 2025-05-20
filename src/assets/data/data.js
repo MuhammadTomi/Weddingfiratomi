@@ -21,16 +21,6 @@ export const data = {
     },
 
     time: {
-        marriage: {
-            year: '2025',
-            month: 'April',
-            date: '22',
-            day: 'Selasa',
-            hours: {
-                start: '10.00',
-                finish: 'Selesai'
-          
-        ,
         reception: {
             year: '2025',
             month: 'Mei',
