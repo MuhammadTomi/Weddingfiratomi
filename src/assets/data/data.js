@@ -25,7 +25,7 @@ export const data = {
             year: '',
             month: '',
             date: '',
-            day: '',
+            day: 'Selasa, 22 April 2025',
             hours: {
                 start: '',
                 finish: ''
