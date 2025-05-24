@@ -25,10 +25,10 @@ export const data = {
             year: '',
             month: '',
             date: '',
-            day: 'Selasa, 22 April 2025',
+            day: 'Selasa 22 April 2025',
             hours: {
-                start: '09.00',
-                finish: 'Selesai'
+                start: '',
+                finish: ''
             }
         },
         reception: {
