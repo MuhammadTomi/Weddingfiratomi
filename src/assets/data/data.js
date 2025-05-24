@@ -27,8 +27,8 @@ export const data = {
             date: '',
             day: 'Selasa, 22 April 2025',
             hours: {
-                start: '',
-                finish: ''
+                start: '09.00',
+                finish: 'Selesai'
             }
         },
         reception: {
