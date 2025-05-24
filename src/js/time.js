@@ -12,8 +12,8 @@ export const time = () => {
          Pukul ${details.hours.start} WIB sd ${details.hours.finish}</p>`
     );
 
-    // Hilangkan akad
-    // marriageDiv.innerHTML = createTimeListItem('Akad', data.time.marriage);
+    // Hilangkan bagian akad sepenuhnya
+    marriageDiv.style.display = 'none';  // ⬅️ ini penting
 
     // Tetap tampilkan resepsi
     receptionDiv.innerHTML = createTimeListItem('Resepsi', data.time.reception);
