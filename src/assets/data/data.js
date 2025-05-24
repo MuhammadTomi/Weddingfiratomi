@@ -22,10 +22,10 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2025',
-            month: 'April',
-            date: '22',
-            day: 'Selasa',
+            year: '',
+            month: '',
+            date: '',
+            day: 'Selasa 22 April 2025',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
