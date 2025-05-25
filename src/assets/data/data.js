@@ -59,8 +59,20 @@ export const data = {
             image: './src/assets/images/gl2.jpg'
         },
         {
+            id: 2,
+            image: './src/assets/images/br1.jpg'
+        },
+        {
+            id: 2,
+            image: './src/assets/images/br2.jpg'
+        },
+        {
             id: 3,
             image: './src/assets/images/gl3.jpg'
+        },
+        {
+            id: 2,
+            image: './src/assets/images/br3.jpg'
         },
         {
             id: 4,
